@@ -16,6 +16,9 @@ public class Tgit {
 		System.out.println("B");
 		
 		System.out.println("D");
+
+		System.out.println("C");
+
 	}
 
 }
