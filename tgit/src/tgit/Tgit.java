@@ -7,7 +7,7 @@ public class Tgit {
 		System.out.println("sadasdasdasd");
 		
 		
-		
+		System.out.println(1);
 		
 	}
 
